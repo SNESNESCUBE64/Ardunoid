@@ -1,0 +1,3 @@
+This game was a project created for custom hardware. However, it can be used with a standard Arduino and I2C 128x64 OLED screen. Essentially, all you have to do is download the Adafruit_SSD1306-master and the Adafruit-GFX-Library-master libraries.
+
+More documentation on how to recreate this comming soon...

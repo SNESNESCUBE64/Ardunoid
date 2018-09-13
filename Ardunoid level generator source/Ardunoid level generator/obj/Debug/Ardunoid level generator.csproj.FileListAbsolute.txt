@@ -1,0 +1,10 @@
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\bin\Debug\Ardunoid level generator.exe.config
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\bin\Debug\Ardunoid level generator.exe
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\bin\Debug\Ardunoid level generator.pdb
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\obj\Debug\Ardunoid level generator.csprojAssemblyReference.cache
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\obj\Debug\Ardunoid_level_generator.Form1.resources
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\obj\Debug\Ardunoid_level_generator.Properties.Resources.resources
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\obj\Debug\Ardunoid level generator.csproj.GenerateResource.cache
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\obj\Debug\Ardunoid level generator.csproj.CoreCompileInputs.cache
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\obj\Debug\Ardunoid level generator.exe
+C:\Users\mssch\source\repos\Ardunoid level generator\Ardunoid level generator\obj\Debug\Ardunoid level generator.pdb
